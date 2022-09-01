@@ -72,7 +72,7 @@ LICENSE  README.md  server.js.example
 
 ### Initialize the repo as an NPM package
 
-Run `npm init` following and fill in the prompts accordingly.
+Run `npm init` and fill in the prompts accordingly.
 
 Make sure to do the following:
 
